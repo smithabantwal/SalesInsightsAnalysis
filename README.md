@@ -1,5 +1,22 @@
 ## Sales Insights Data Analysis Project
 
+ Problem Statement
+AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as Excel stores, Surge stories across India. AtliQ Hardware head office is situated in Delhi, India and they have many regional office throughout the India.
+
+Challenges- Market is growing dynamically and Sales Director is facing issue in terms of tracking the Sales in this dynamically growth market and he is having issues with growth of his business, as overall sales was declining. He has regional managers for North India, South and Central India. Whenever he wants to get insight of these region he would call these people and on the phone regional manager give some insights to him.
+
+Now Problem was that all these thing happening is verbal and there was no proof with facts that how his business is affected and which made him frustrated as he can see that overall sales is declining but when he ask regional manager, he is not getting complete picture of his business. And when he ask to give detail, they give lot of excel file and this AtliQ hardware is big business so to see insight clearly , he needs a dashboard to look at real data . And he will get proper insight and can take data driven decision to increase sales of his company.
+
+
+
+AIMS Grid -is a project management tool and it has four component-
+
+Purpose- to unlock sales insights that are not visible before for the sales team for decision support and automate them to reduced manual time spent in data gathering.
+
+Stakeholders- are people who will involve in this project like sales director, marketing team, customer service team, data analytics team and IT.
+
+End Result- An automated dashboard providing quick and latest sales insights in order to support data driven decision making.
+
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 
